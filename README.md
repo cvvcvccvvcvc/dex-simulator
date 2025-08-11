@@ -1,7 +1,3 @@
-Sure! Here's a concise and clear README for your simulation project:
-
----
-
 # Dex Simulator
 
 A Python simulation framework modeling an AMM liquidity pool, arbitrage opportunities, and external market price dynamics. Designed to simulate Uniswap V3-like pools with concentrated liquidity and arbitrage bots acting on price discrepancies.
@@ -108,7 +104,3 @@ For a detailed step-by-step example, see the Jupyter Notebook:
 ## Contributing
 
 Feel free to open issues or submit pull requests. Please keep code clear and documented.
-
-## License
-
-MIT License
